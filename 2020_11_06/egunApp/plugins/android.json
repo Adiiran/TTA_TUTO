@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "eus.ehu.intel.tta.egun"
+    }
+  }
+}

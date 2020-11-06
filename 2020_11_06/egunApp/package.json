@@ -1,0 +1,30 @@
+{
+  "name": "eus.ehu.intel.tta.egun",
+  "version": "0.0.1",
+  "displayName": "egunApp",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-media-capture": {},
+      "cordova-plugin-media": {},
+      "cordova-plugin-android-permissions": {},
+      "cordova-plugin-file-transfer": {},
+      "cordova-plugin-network-information": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "9.0.0",
+    "cordova-plugin-android-permissions": "^1.1.0",
+    "cordova-plugin-file": "^6.0.2",
+    "cordova-plugin-file-transfer": "^1.7.1",
+    "cordova-plugin-media": "^5.0.3",
+    "cordova-plugin-media-capture": "^3.0.3",
+    "cordova-plugin-network-information": "^2.0.2"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "1"
+  }
+}
